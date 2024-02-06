@@ -129,6 +129,9 @@ margin-top: auto;
   gap: 40px;
   justify-content: center;
 }
+.recipes__iframe{
+  border: none;
+}
 .recipes__video-caption{
   display: flex;
   justify-content: space-between;
