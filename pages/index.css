@@ -101,7 +101,8 @@ margin-top: auto;
   padding: 100px 80px 215px;
   background-color: #0a2750;
   background-image: url(../images/background_recipes.svg);
-  background-position: cover;
+  background-position: center;
+  background-size: cover;
 }
 .recipes__title{
   max-width: 580px;
