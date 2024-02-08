@@ -213,9 +213,17 @@ margin-top: auto;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  border-radius: 4px;
+  background-color: #2f80ed;
+  color: white;
+  transition: opacity 0.3s ease;
+}
+.form__button:hover{
+  opacity: 0.7;
 }
 .form__checkbox{
   margin-right: 12px;
   height: 20px;
   width: 20px;
+  border-radius: 2px;
 }
