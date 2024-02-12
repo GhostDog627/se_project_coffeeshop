@@ -42,7 +42,7 @@
   height: 568px;
   z-index: -1;
   right: 5px;
-  object-fit: contain;
+  top: 124px;
 }
 .header__span-accent{
   color: #2f80ed;
