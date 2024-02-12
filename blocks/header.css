@@ -1,5 +1,4 @@
 .header{
-  padding: 30px 80px 40px;
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
@@ -10,24 +9,27 @@
   background-size: cover;
   background-color: #FFFFFF;
   background-repeat: no-repeat;
+  z-index: 0;
+  position: relative;
+  padding: 30px 80px 40px;
 }
 .header__title{
   max-width: 729px;
   font-size: 60px;
   line-height: 70px;
-  margin: 183px 0 0;
   letter-spacing: -0.6px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
+  padding-top: 183px;
+  padding-bottom: 28px;
 }
 .header__description{
   max-width: 683px;
   font-size: 20px;
   line-height: 30px;
-  margin: 28px 0 0;
   font-family: "Noto Serif";
   font-style: normal;
   font-weight: normal;
@@ -38,8 +40,9 @@
   position: absolute;
   width: 646px;
   height: 568px;
-  margin-top: 124px;
-  margin-left: 855px;
+  z-index: -1;
+  right: 5px;
+  object-fit: contain;
 }
 .header__span-accent{
   color: #2f80ed;
@@ -54,6 +57,7 @@
   display: flex;
   justify-content: space-between;
   margin-top: auto;
+  padding: 0 80px 40px;
   }
 .header__paragraph{
   font-family: "Inter";

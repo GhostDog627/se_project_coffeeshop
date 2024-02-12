@@ -10,12 +10,14 @@
   display: flex;
   justify-content: center;
   max-width: 780px;
-  margin: 0 auto 24px;
+  margin: 0 auto;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  text-align: center;
+  bottom: 24px;
 }
 .menu__subtitle{
   display: flex;
@@ -29,6 +31,7 @@
   line-height: 30px;
   padding-bottom: 100px;
   text-align: center;
+  bottom: 100px;
 }
 .menu__cards{
   display: flex;
