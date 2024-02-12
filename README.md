@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I think that is was a great project, and I really enjoyed it! I think that this project could maybe benefit from maybe 1 or 2 more animations like the circle. Since that was so prominent in the learning material I think people would like more practice at it.
