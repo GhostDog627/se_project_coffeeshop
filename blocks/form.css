@@ -50,7 +50,7 @@
   border-radius: 4px;
   background-color: #2f80ed;
   color: white;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.3 ease;
   cursor: pointer;
   border-color: transparent;
 }

@@ -11,7 +11,6 @@
   background-repeat: no-repeat;
   z-index: 0;
   position: relative;
-  padding: 30px 80px 40px;
   box-sizing: border-box;
 }
 .header__title{
@@ -23,8 +22,7 @@
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
-  padding-top: 183px;
-  padding-bottom: 28px;
+  padding: 183px 0 28px 80px;
   margin: 0;
 }
 .header__description{
@@ -35,6 +33,7 @@
   font-style: normal;
   font-weight: normal;
   margin: 0;
+  padding-left: 80px;
 }
 .header__image{
   position: absolute;
@@ -58,6 +57,7 @@
   justify-content: space-between;
   margin-top: auto;
   padding: 0 80px 40px;
+  align-items: flex-end;
   }
 .header__paragraph{
   font-family: "Inter", Arial, sans-serif;
