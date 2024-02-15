@@ -32,6 +32,9 @@
   align-items: center;
   margin-bottom: 16px;
 }
+.footer__list-item:last-child{
+  margin-bottom: 0;
+}
 .footer__social-icon{
   margin-right: 10px;
   width: 16px;
